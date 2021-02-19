@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CEEB-BA01
+
+ Directory of C:\Deepthi\GIT Project
+
+19-02-2021  21:07    <DIR>          .
+19-02-2021  21:07    <DIR>          ..
+18-02-2021  20:15               383 index.html
+18-02-2021  20:14                20 test1.txt
+19-02-2021  20:51               430 test2.txt
+19-02-2021  21:07                 0 test3.txt
+               4 File(s)            833 bytes
+               2 Dir(s)  181,321,842,688 bytes free
